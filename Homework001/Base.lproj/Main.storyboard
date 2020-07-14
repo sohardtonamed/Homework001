@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17132" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17105"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="vag-fZ-Qk3">
+            <objects>
+                <viewController id="kOK-m1-W6s" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Zhy-EG-jCd">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="clip" numberOfLines="33" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="12M-Qn-gmI">
+                                <rect key="frame" x="20" y="20" width="374" height="788"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">馬克思主義是馬克思、恩格斯在19世紀工人運動實踐基礎上而創立的理論體系。
+
+　　馬克思主義主要以唯物主義角度所編寫而成的理論體系。
+
+　　馬克思主義理論體系包括三部分，即馬克思主義哲學、馬克思主義政治經濟學、科學社會主義，分別是馬克思、恩格斯受德國古典哲學、英國古典政治經濟學、法國空想社會主義影響，併在此基礎上創立的。
+
+　　馬克思主義被世界各國的共產黨和工人黨列為理論基礎，但在實踐發展過程中，產生許多不同的流派，產生激烈的爭執，導致多次分裂。在各個不同的歷史時期，對理論的解釋也有變化。致使各派別的理論發展產生相當大的區別，尤其是當以馬克思主義為指導理論的黨執掌政權後，就會宣佈自己的派別為正統。當前世界對馬克思主義理論的詮釋仍然有許多不同的說法，但一致的看法是馬克思主義理論是對20世紀的世界影響最大的一種理論。
+
+　　但是，針對馬克思主義在各個社會科學領域的實際產生過程和實際地位，有不同的意見。如經濟學家熊彼特就認為，馬克思主義的主要貢獻是一套完整的“經濟學——社會學”體系。並否認唯物主義在其經濟學——社會學體系中的實際作用，認為馬克思的哲學主要只是黑格爾哲學的照抄。認為“經濟史觀”並非“經濟動因歷史觀”，也非象馬克思本人所認為的“唯物史觀”。</string>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Ir2-aC-ZUj"/>
+                        <color key="backgroundColor" red="0.56440129959999996" green="0.045533917850000001" blue="0.1091157483" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="b2C-qF-gDJ"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lRk-xn-2Oh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-2068.1159420289855" y="979.6875"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="dOW-1C-VMb">
+            <objects>
+                <viewController id="bwM-rJ-Znb" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="PRp-jc-ggb">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="30" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aNv-z4-YM3">
+                                <rect key="frame" x="20" y="20" width="374" height="788"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">切·格瓦拉（西班牙語：Che Guevara；1928年6月14日－1967年10月9日[1]），本名埃內斯托·格瓦拉（Ernesto Guevara），暱稱切（El Che或Che），出生於阿根廷。他是古巴革命的核心人物之一，社會主義古巴、古巴革命武裝力量和古巴共產黨的主要締造者及領導人，著名的國際共產主義革命家、軍事理論家、政治家、醫生、作家、游擊隊領袖。
+身為年輕的醫學系學生，格瓦拉趁著一股熱情騎上機車，遊歷了整個拉丁美洲，並因親眼目睹了貧窮的無所不在而深感震撼[4]。他在這些旅行中的所見所聞，使他斷定各地根深蒂固的社會不平等是國家壟斷資本主義、新殖民主義與帝國主義的結果，唯一的補救方法便是進行世界革命[5]。這個信仰激勵他介入了瓜地馬拉在總統哈科沃·阿本斯·古斯曼統治下的社會改革；阿本斯最終於1954年瓜地馬拉政變，在美國中情局暗中策動下被推翻，結束了瓜地馬拉當時不同凡響的意識形態。後來，格瓦拉在墨西哥城先後結識了勞爾·卡斯楚與菲德爾·卡斯楚，加入他們的七二六運動，懷抱著推翻親美的獨裁者富爾亨西奧·巴蒂斯塔的理想、乘著格拉瑪號登陸古巴[6]。
+格瓦拉不久便在起義者間展露頭角，晉升至少校司令，並在為期二年、成功推翻巴蒂斯塔政權的游擊戰役中扮演關鍵的角色。[7]1959年古巴革命成功後，他被授予古巴公民身份。格瓦拉在古巴革命政府扮演了重要角色，包括負責再審革命法庭期間被列為戰犯者的申訴與行刑隊。</mutableString>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="0DB-zI-9uI"/>
+                        <color key="backgroundColor" red="0.56440129959999996" green="0.045533917850000001" blue="0.1091157483" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="nvM-sc-xjY"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="29z-1Y-0we" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1239.1304347826087" y="979.6875"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="LCv-Ku-100">
+            <objects>
+                <viewController id="XMS-Qy-9qh" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="vyq-ej-qY1">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="30" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s0d-ln-Plz">
+                                <rect key="frame" x="20" y="-53" width="374" height="788"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">毛澤東（1893年12月26日－1976年9月9日），字潤之，湖南湘潭人[1]:3813。筆名子任，曾化名李德勝。中華民國大陸時期、中國共產黨和中華人民共和國的重要政治家、軍事家、戰略家、外交家和詩人。自1945年中共七屆一中全會出任中國共產黨中央委員會主席至1976年逝世，是中華人民共和國歷史上的第一代最高領導人[2]。
+毛澤東出生於湖南湘潭韶山沖，幼年進入私塾讀書，也務過農。1918年畢業於湖南省立第一師範學校。1921年參與建立中國共產黨，後參與第一次國共合作。1927年-1949年間，參與第一次國共內戰、第二次國共合作、抗日戰爭、第二次國共內戰，並扮演重要角色。1945年中國共產黨第七次全國代表大會後出任中央委員會主席和中央軍事委員會主席，成為黨的最高領導人。1949年出任中華人民共和國中央人民政府主席，1954年至1959年轉為擔任中華人民共和國主席。曾先後兼任人民革命軍事委員會主席、國防委員會主席、中國人民政治協商會議全國委員會主席暨名譽主席等職。
+</mutableString>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="g3n-VL-Gl1"/>
+                        <color key="backgroundColor" red="0.56440129959999996" green="0.045533917850000001" blue="0.1091157483" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="aXO-fQ-Hqc"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tJ4-jG-0Ok" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-252" y="980"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="xWk-uD-EPZ">
+            <objects>
+                <viewController id="Lbs-mH-VLW" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="6vb-Ce-ZkE">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="30" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Sue-JW-uFl">
+                                <rect key="frame" x="20" y="20" width="374" height="674"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">佛拉迪米爾·伊里奇·烏里揚諾夫（俄語：Влади́мир Ильи́ч Улья́нов；1870年4月22日－1924年1月21日），通稱列寧（Ле́нин），是俄羅斯共產主義革命家、政治家和政治哲學理論家，曾擔任俄羅斯共和國（1917年－1918年）、俄羅斯蘇維埃聯邦社會主義共和國（1918年－1924年）及蘇聯（1922年－1924年）人民委員會主席（總理）[1]。在他治理下，俄羅斯和往後的蘇聯成為接受布爾什維克（後來的蘇聯共產黨）統治的一黨制社會主義國家。列寧的思想體系根基於馬克思主義，而其發展的政治理論則稱為「列寧主義」。
+列寧出身於富裕的辛比爾斯克中產階級，在兄長亞歷山大·烏里揚諾夫於1887年遭到處決後，他決定接受革命社會主義的政治立場。由於參與反對俄羅斯帝國沙皇專制制度的抗議活動，導致他遭喀山國立大學除名，他在隨後幾年則專注於法律學位上。1893年，他搬到聖彼德堡，成為俄國社會民主工黨高級幹部，主張馬克思主義。1897年，他因為煽動叛亂而遭逮捕，至舒申斯科耶度過長達3年的流放生涯，期間迎娶娜傑日達·克魯普斯卡婭為妻。他在流放結束後搬往西歐，透過出版而成為著名的政黨理論家。1903年，他在俄國社會民主工黨意識形態分裂中扮演著關鍵角色，領導布爾什維克對抗尤里·馬爾托夫的孟什維克。他鼓舞了1905年俄國革命的爆發，而後則發起活動，以讓第一次世界大戰轉為整個歐洲的無產階級革命；作為馬克思主義者，他相信這將推翻資本主義生產方式、且由社會主義社會替代。</mutableString>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="AjL-6s-LPt"/>
+                        <color key="backgroundColor" red="0.56440129959999996" green="0.045533917850000001" blue="0.1091157483" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="MEy-GA-x3f"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="syq-xA-82m" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="589.85507246376812" y="979.6875"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="apd-uF-c4f">
+            <objects>
+                <viewController id="hs7-Az-ZKl" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Q8A-Xc-WUt">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="純真可愛，雖然有點笨拙，有點沒大腦，但心地善良，體型圓滾滾的維尼最愛吃大口大口的蜂蜜，是百畝森林的開心果，總喜歡穿件紅色T-shirt。" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oQI-a6-A8a">
+                                <rect key="frame" x="20" y="20" width="374" height="147"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="PPp-qy-qDe"/>
+                        <color key="backgroundColor" red="0.56440129959999996" green="0.045533917850000001" blue="0.1091157483" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="eUf-dr-MVz"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="udC-cS-dO9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1447.8260869565217" y="979.6875"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="3pu-X9-VJU">
+            <objects>
+                <viewController id="0KF-ll-dns" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Eev-zE-dmT">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="21" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="REW-KL-DII">
+                                <rect key="frame" x="20" y="20" width="374" height="495"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <mutableString key="text">金正恩[4]（朝鮮語：김정은，1984年1月8日－[5][6][7]），是朝鮮民主主義人民共和國現任最高領導人（第三代）[8]，目前兼任朝鮮勞動黨委員長、朝鮮勞動黨中央軍事委員會委員長、國務委員會委員長、武裝力量最高司令官和朝鮮勞動黨中央政治局委員、政治局常委。
+2012年至2016年間的黨內職稱是朝鮮勞動黨第一書記。其軍階為共和國元帥[9]。金正恩於2010年9月27日及9月28日分別就任朝鮮勞動黨中央委員會委員和勞動黨中央軍事委員會副委員長，在中央軍事委員會的權位僅次於父親金正日，當時的黨內排名也僅次於包括總書記金正日在內的五位中央政治局常委，被認為是承繼政權的第一步。其父金正日逝世後，在完全接任金正日空缺下來的職位之前，朝鮮官方已開始稱金正恩為黨政軍的最高領導人，象徵其第三代領導人的地位確立[10]。金正恩於2012年4月11日和4月13日分別出任勞動黨第一書記和國防委員會第一委員長，並將勞動黨總書記和國防委員會委員長職務永久保留給金正日。</mutableString>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="mN5-g7-l0e"/>
+                        <color key="backgroundColor" red="0.56440129959999996" green="0.045533917850000001" blue="0.1091157483" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="rf3-IH-gU4"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="klv-kH-pPm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2347.826086956522" y="979.6875"/>
+        </scene>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Homework001" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3co-YS-zeW">
+                                <rect key="frame" x="20" y="248" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="kOK-m1-W6s" kind="show" id="SKE-dE-1Kp"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="84N-aV-PDJ">
+                                <rect key="frame" x="20" y="448" width="158" height="124"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="Lbs-mH-VLW" kind="show" id="7C3-Cy-v0j"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LcW-b0-3cy">
+                                <rect key="frame" x="20" y="654" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="hs7-Az-ZKl" kind="show" id="C2g-yN-frE"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GK9-QW-QeJ">
+                                <rect key="frame" x="236" y="662" width="158" height="120"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="0KF-ll-dns" kind="show" id="z0B-ps-sCV"/>
+                                </connections>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="截圖 2020-07-13 下午11.43.36" translatesAutoresizingMaskIntoConstraints="NO" id="niT-me-3Jq">
+                                <rect key="frame" x="0.0" y="37" width="414" height="207"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="截圖 2020-07-13 下午11.29.51" translatesAutoresizingMaskIntoConstraints="NO" id="XkU-Sx-7kk">
+                                <rect key="frame" x="236" y="248" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ayt-hY-3eM">
+                                <rect key="frame" x="236" y="245" width="158" height="121"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="XMS-Qy-9qh" kind="show" id="noR-rC-yEu"/>
+                                </connections>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="截圖 2020-07-14 上午12.18.38" translatesAutoresizingMaskIntoConstraints="NO" id="bmY-50-DHH">
+                                <rect key="frame" x="20" y="444" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="截圖 2020-07-14 上午12.10.51" translatesAutoresizingMaskIntoConstraints="NO" id="5qm-Sy-bR3">
+                                <rect key="frame" x="245" y="448" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vCY-cC-WKd">
+                                <rect key="frame" x="245" y="450" width="158" height="124"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="bwM-rJ-Znb" kind="show" id="3o8-ma-3PP"/>
+                                </connections>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="截圖 2020-07-14 上午12.09.01" translatesAutoresizingMaskIntoConstraints="NO" id="IUJ-5D-eW3">
+                                <rect key="frame" x="20" y="654" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="截圖 2020-07-14 上午12.07.14" translatesAutoresizingMaskIntoConstraints="NO" id="dOZ-RB-6jN">
+                                <rect key="frame" x="245" y="654" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="截圖 2020-07-14 上午12.17.13" translatesAutoresizingMaskIntoConstraints="NO" id="N8I-Y3-SgY">
+                                <rect key="frame" x="20" y="245" width="158" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="        馬克思" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xdS-ZJ-kcs">
+                                <rect key="frame" x="20" y="384" width="158" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.76248413319999997" green="0.0017437688079999999" blue="0.090139441190000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="26"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="        毛澤東" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XiY-EB-kLf">
+                                <rect key="frame" x="236" y="384" width="158" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.76248413319999997" green="0.0017437688079999999" blue="0.090139441190000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="26"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="         列寧" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eHJ-zk-Xly">
+                                <rect key="frame" x="20" y="593" width="158" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.76248413319999997" green="0.0017437688079999999" blue="0.090139441190000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="26"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="    切格瓦拉" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TcJ-2k-Rrf">
+                                <rect key="frame" x="245" y="593" width="158" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.76248413319999997" green="0.0017437688079999999" blue="0.090139441190000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="26"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="        Winnie" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rm1-aT-z4m">
+                                <rect key="frame" x="20" y="805" width="158" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.76248413319999997" green="0.0017437688079999999" blue="0.090139441190000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="26"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="       김정은" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="70q-bM-m2b">
+                                <rect key="frame" x="245" y="805" width="158" height="42"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.76248413319999997" green="0.0017437688079999999" blue="0.090139441190000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="26"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.8016316295" green="0.063400939109999999" blue="0.14898353819999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="27.536231884057973" y="117.1875"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="截圖 2020-07-13 下午11.29.51" width="502" height="658"/>
+        <image name="截圖 2020-07-13 下午11.43.36" width="440" height="298"/>
+        <image name="截圖 2020-07-14 上午12.07.14" width="440" height="442"/>
+        <image name="截圖 2020-07-14 上午12.09.01" width="498" height="462"/>
+        <image name="截圖 2020-07-14 上午12.10.51" width="450" height="372"/>
+        <image name="截圖 2020-07-14 上午12.17.13" width="590" height="448"/>
+        <image name="截圖 2020-07-14 上午12.18.38" width="260" height="336"/>
+    </resources>
+</document>
